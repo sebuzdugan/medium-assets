@@ -4,4 +4,4 @@ Diagrams and charts for technical Medium articles by [@sebuzdugan](https://mediu
 
 One folder per article slug. Images are 1200x675 PNG, generated from SVG with `qlmanage` + `sips`.
 
-House palette: background `#faf9f5`, accent green `#e8f0e4` / `#4a7c59` / `#2e5e42`, contrast red `#fdecea` / `#c0392b`.
+House system, taken from sebuzdugan.com: background `#08090a`, surface `#0d0f10`, text `#e9e9e4`, muted `#8b918a`, hairline `#ffffff1a`, accent `#c5f24e`. Fonts: Geist, Geist Mono, Fraunces. Shared stylesheet in `_theme/theme.css`.
